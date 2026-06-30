@@ -1,0 +1,5 @@
+node_modules/
+CivicGuardianAI/node_modules/
+.env
+dist/
+build/
