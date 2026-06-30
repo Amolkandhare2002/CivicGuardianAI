@@ -95,13 +95,7 @@ npm install
 npm start
 ```
 
-Create `.env` file:
 
-```env
-PORT=5000
-MONGO_URI=your_mongodb_uri
-GEMINI_API_KEY=your_api_key
-```
 
  3. Frontend Setup
 
@@ -111,11 +105,6 @@ npm install
 npm run dev
 ```
 
-🌐 Deployment Links
-
-* 🔗 Live App: [https://your-deployed-link.com](https://your-deployed-link.com)
-* 🔗 Backend API: [https://your-cloud-run-url.com](https://your-cloud-run-url.com)
-* 🔗 GitHub Repo: [https://github.com/your-username/CivicGuardianAI](https://github.com/your-username/CivicGuardianAI)
 
 📊 Future Improvements
 
